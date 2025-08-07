@@ -1,7 +1,7 @@
 # A CLI YouTube searcher
 
 ## Screenshots
-<img width="1024" height="615" alt="image" src="https://github.com/user-attachments/assets/26695c16-7dba-4d3d-9a19-32bec9afc5df" />
+<img width="1003" height="580" alt="image" src="https://github.com/user-attachments/assets/1fe0180b-23fd-49cb-9427-c9adc302a630" />
 
 
 

@@ -1,8 +1,7 @@
 # A CLI YouTube searcher
 
 ## Screenshots
-<img width="1003" height="580" alt="image" src="https://github.com/user-attachments/assets/1fe0180b-23fd-49cb-9427-c9adc302a630" />
-
+<img width="1024" height="608" alt="image" src="https://github.com/user-attachments/assets/80428ac0-0ad6-4a0f-8f0c-beb2bfbb891f" />
 
 
 ## Setup:

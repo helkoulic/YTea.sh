@@ -40,7 +40,6 @@ read -rp "Search==> " search
 
 for S in $(echo "$search" | sed 's/ /+/g; s/,/ /g')
 do	
-	echo $S
 	if [[ $search == "--exit-now" ]];then
 	echo "Salamm!!!"
 	sleep .2

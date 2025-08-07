@@ -35,7 +35,7 @@ done
 }
 
 Again(){
-read -rp "Search--> " search
+read -ep "Search--> " search
 
 
 for S in $(echo "$search" | sed 's/ /+/g; s/,/ /g')

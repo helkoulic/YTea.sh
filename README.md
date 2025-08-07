@@ -11,10 +11,21 @@
 ```
 git clone https://github.com/helkoulic/YTea.sh.git
 ```
-2. Install xdg-open (on debian):
+2. Install xdg-open
+- For Debian/Ubuntu:
 ```
 sudo apt install xdg-utils
 ```
+- For Red Hat/Fedora:
+```
+sudo dnf install xdg-utils
+```
+
+- For Arch Linux:
+```
+sudo pacman -S xdg-utils
+```
+
 3. Run the bash script:
 ```
 bash YTea.sh
@@ -23,6 +34,7 @@ bash YTea.sh
 ## Usage
 
 - To perform multiple searches simultaneously, separate your queries with commas (,).
+
 - To display the help menu add the argument `--help`:
 ```
 bash YTea.sh --help

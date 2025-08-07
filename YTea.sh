@@ -61,7 +61,7 @@ done
 
 elif [[ $1 == "-help" || $1 == "-h" || $1 == "--help" ]];then
 	echo -e "- To perform multiple searches simultaneously, separate your queries with \e[0;1mcommas (,)\e[0m. 
-	eg: bash YTea.sh how to sleep early, how to drink water, how to eat using a fork
+	eg: bash YTea.sh what is metadata, how to remove metadata from images, python socket explained
 
 Arguments:
 	--help =======> to display this page

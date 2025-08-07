@@ -4,7 +4,7 @@
 <img width="1024" height="608" alt="image" src="https://github.com/user-attachments/assets/80428ac0-0ad6-4a0f-8f0c-beb2bfbb891f" />
 
 
-## Setup:
+## Setup
 
 1. Clone the repository:
 ```
@@ -40,3 +40,7 @@ bash YTea.sh --help
 ```
 - To exit the tool, type `--exit-now` or force quit with `Ctrl+C`.
 
+
+## Use cases
+
+- Search for more than one YouTube query using one single command.

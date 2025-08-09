@@ -34,7 +34,7 @@ sleep .2
 done
 }
 
-Again(){
+main(){
 read -ep "Search--> " search
 
 
@@ -54,7 +54,7 @@ Loading && xdg-open https://www.youtube.com/search?q="$S"
 
 while true 
 do
-	Again
+	main
 done
 
 
